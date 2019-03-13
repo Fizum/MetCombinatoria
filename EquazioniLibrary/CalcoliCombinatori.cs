@@ -20,6 +20,7 @@ namespace EquazioniLibrary
                 fact = 1;
 
             return fact;
+
         }
     }
 }
